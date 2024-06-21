@@ -1,5 +1,5 @@
 # 💫 About Me:
-About me
+I am a programmer with over six years of experience specializing in back-end development. I excel at creating efficient and robust solutions, solving complex problems, and optimizing performance. My passion for coding and extensive experience make me a valuable asset to any development team.
 
 
 ## 🌐 Socials:
